@@ -18,5 +18,9 @@
   "homepage": "https://github.com/AlejandraMurilloL/redux-basic#readme",
   "devDependencies": {
     "@types/node": "^18.7.23"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.5",
+    "redux": "^4.2.0"
   }
 }
